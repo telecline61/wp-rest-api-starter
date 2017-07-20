@@ -1,0 +1,28 @@
+/*
+plugin styles go here
+*/
+h1.page-title {
+	margin-left: 15px;
+}
+header.content-header {
+	margin: 50px 0;
+}
+#show-btn {
+    margin-top: 20px;
+}
+.data-wrap{
+	min-height: 370px !important;
+}
+.data-wrap p {
+	margin-bottom: 20px;
+}
+.no-padding-left {
+	padding-left: 0 !important;
+}
+.vis {
+	display:none;
+}
+.vis.show-me {
+	display:block !important;
+}
+
